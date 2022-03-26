@@ -1,1 +1,1 @@
-svg
+Repo for hosting svg files used in profile readme.
